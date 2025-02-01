@@ -22,6 +22,10 @@ Ordering System: 2024.2
 
 TCP communication experiment project: 2025.1
 
+### [Web_Skewer](https://github.com/Rain0832/CSDIY_Demo/tree/main/Web_Skewer)
+
+Web Development Skewer：2025.2
+
 ---
 
 # CSDIY_Demo
@@ -47,3 +51,7 @@ TCP communication experiment project: 2025.1
 ### [TCP_Demo](https://github.com/Rain0832/CSDIY_Demo/tree/main/TCP_Demo)
 
 TCP通讯实验项目：2025.1
+
+### [Web_Skewer](https://github.com/Rain0832/CSDIY_Demo/tree/main/Web_Skewer)
+
+网站开发大串讲：2025.2

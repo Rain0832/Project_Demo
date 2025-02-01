@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>玫瑰价格查询网站</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>查询玫瑰价格</h1>
+        
+        <!-- 添加可用日期显示区域 -->
+        <div class="available-dates">
+            <h2>数据库中的价格信息</h2>
+            <div id="available-dates"></div>
+        </div>
+        
+        <div class="query-section">
+            <h2>价格查询</h2>
+            <label for="date">选择日期：</label>
+            <input type="date" id="date" max="2025-02-01">
+            <button onclick="getRosePrices()">查询</button>
+            <div class="loading" id="loading" style="display: none;">加载中...</div>
+            <div class="result" id="result"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

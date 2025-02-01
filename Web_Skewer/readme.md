@@ -1,3 +1,45 @@
+# Website development series
+
+## Knowledge directory
+
+**Communication protocol: HTTP**
+
+### 1. Front-end
+
+##### 1.1. Web design
+
+Static folder:
+
+- HTML + CSS + JS
+
+Display interface + Process user input + Request
+
+##### 1.2. Browser
+
+As a medium
+
+##### 1.3. Operating system
+
+### 2. Back-end
+
+Go language: static compilation language, fast development
+
+Implement router
+
+##### 2.1. Server
+
+Accept request + return result
+
+**TCP protocol connects server and database**
+
+##### 2.2. Database
+
+Use MySQL database. Store data and other operations.
+
+Storing data entered by the front end also makes it easier for the back end to obtain data.
+
+---
+
 # 网站开发串讲
 
 ## 知识目录

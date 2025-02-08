@@ -1,4 +1,4 @@
-# TCP network communication small project
+# TCP network communication mini-demo
 
 ### Server process
 

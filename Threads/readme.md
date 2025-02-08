@@ -2,7 +2,7 @@
 
 From Bilibili: [Multithreading and Thread Synchronization-C/C++](https://www.bilibili.com/video/BV1sv41177e4?vd_source=630bda5b6aa6fe12cf2bbd8569afd13e)
 
-It is recommended to use it with Gitbook:
+It is recommended to use it with Gitbook: http://rain0832.gitbook.io/rain0832/bilibili-wild/multithreading-and-thread-synchrony
 
 I define it as an introduction to operating systems and practice.
 
@@ -38,7 +38,7 @@ This can only be considered a brief introduction, and it cannot even be consider
 
 来自B站：[爱编程的大丙](【多线程和线程同步-C/C++】https://www.bilibili.com/video/BV1sv41177e4?vd_source=630bda5b6aa6fe12cf2bbd8569afd13e)
 
-建议与Gitbook搭配食用：
+建议与Gitbook搭配食用：http://rain0832.gitbook.io/rain0832/bilibili-wild/multithreading-and-thread-synchrony
 
 我将其定义为操作系统导论与实践。
 

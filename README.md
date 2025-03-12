@@ -1,4 +1,4 @@
-# CSDIY_Demo
+#Project_Demo
 
 Records some small projects on the road of CSDIY learning. Some projects are too old to find the specific date.
 
@@ -32,7 +32,7 @@ Student Management System（C + SQLite）：2025.3
 
 ---
 
-# CSDIY_Demo
+# Project_Demo
 
 记录CSDIY学习路上的一些小项目。部分项目由于久远，无法查询具体日期。
 

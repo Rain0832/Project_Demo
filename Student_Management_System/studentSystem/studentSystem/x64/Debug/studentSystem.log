@@ -1,0 +1,8 @@
+﻿  manageSystem.c
+D:\MyCode\studentSystem\manageSystem.c(210,9): warning C4013: “system”未定义；假设外部返回 int
+D:\MyCode\studentSystem\manageSystem.c(118,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\studentSystem\manageSystem.c(126,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\studentSystem\manageSystem.c(168,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\studentSystem\manageSystem.c(171,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\MyCode\studentSystem\manageSystem.c(189,13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  studentSystem.vcxproj -> D:\MyCode\studentSystem\x64\Debug\studentSystem.exe

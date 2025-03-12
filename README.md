@@ -26,6 +26,10 @@ TCP communication experiment project: 2025.1
 
 Web Development Skewer：2025.2
 
+### [Student_Management_System](https://github.com/Rain0832/CSDIY_Demo/tree/main/Student_Management_System)
+
+Student Management System（C + SQLite）：2025.3
+
 ---
 
 # CSDIY_Demo
@@ -55,3 +59,7 @@ TCP通讯实验项目：2025.1
 ### [Web_Skewer](https://github.com/Rain0832/CSDIY_Demo/tree/main/Web_Skewer)
 
 网站开发大串讲：2025.2
+
+### [Student_Management_System](https://github.com/Rain0832/CSDIY_Demo/tree/main/Student_Management_System)
+
+学生管理系统（C + SQLite）：2025.3

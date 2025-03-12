@@ -14,39 +14,39 @@ int number;
 pthread_mutex_t mutex;
 
 // 线程处理函数
-void* funcA_num(void* arg)
+void *funcA_num(void *arg)
 {
-    for(int i=0; i<MAX; ++i)
+    for (int i = 0; i < MAX; ++i)
     {
-	pthread_mutex_lock(&mutex);
+        pthread_mutex_lock(&mutex);
         int cur = number;
         cur++;
         usleep(10);
         number = cur;
         printf("Thread A, id = %lu, number = %d\n", pthread_self(), number);
-	pthread_mutex_unlock(&mutex);
+        pthread_mutex_unlock(&mutex);
     }
 
     return NULL;
 }
 
-void* funcB_num(void* arg)
+void *funcB_num(void *arg)
 {
-    for(int i=0; i<MAX; ++i)
+    for (int i = 0; i < MAX; ++i)
     {
-	pthread_mutex_lock(&mutex);	
+        pthread_mutex_lock(&mutex);
         int cur = number;
         cur++;
         number = cur;
         printf("Thread B, id = %lu, number = %d\n", pthread_self(), number);
         usleep(5);
-	pthread_mutex_unlock(&mutex);
+        pthread_mutex_unlock(&mutex);
     }
 
     return NULL;
 }
 
-int main(int argc, const char* argv[])
+int main(int argc, const char *argv[])
 {
     pthread_t p1, p2;
     pthread_mutex_init(&mutex, NULL);

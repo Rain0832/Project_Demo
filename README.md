@@ -28,11 +28,15 @@ Web Development Skewer：2025.2
 
 ### [Gobang](https://github.com/Rain0832/CSDIY_Demo/tree/main/Gobang)
 
-Gobang Game：2025.3
+Gobang Game: 2025.3
 
 ### [Student_Management_System](https://github.com/Rain0832/CSDIY_Demo/tree/main/Student_Management_System)
 
-Student Management System（C + SQLite）：2025.3
+Student Management System(C + SQLite): 2025.3
+
+### [Qt_Group_Chat](https://github.com/Rain0832/CSDIY_Demo/tree/main/Qt_Group_Chat)
+
+Qt_Group_Chat(QT + UDP): 2025.3
 
 ---
 
@@ -71,3 +75,7 @@ TCP通讯实验项目：2025.1
 ### [Student_Management_System](https://github.com/Rain0832/CSDIY_Demo/tree/main/Student_Management_System)
 
 学生管理系统（C + SQLite）：2025.3
+
+### [Qt_Group_Chat](https://github.com/Rain0832/CSDIY_Demo/tree/main/Qt_Group_Chat)
+
+QT群聊聊天系统（QT + UDP）：2025.3
